@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="742px" height="606px" viewBox="0 0 742 606" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>about_success_mb_en</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" letter-spacing="5.433331" fill="#FFFFFF">
+            <tspan x="49.1233345" y="266">b</tspan>
+        </text>
+        <filter x="-18.4%" y="-5.2%" width="136.8%" height="114.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" letter-spacing="5.433331" fill="#FFFFFF">
+            <tspan x="49.0433345" y="540">d</tspan>
+        </text>
+        <filter x="-18.4%" y="-5.2%" width="136.8%" height="114.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-5" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" letter-spacing="5.433331" fill="#FFFFFF">
+            <tspan x="49.4633345" y="409">c</tspan>
+        </text>
+        <filter x="-18.9%" y="-5.2%" width="137.8%" height="114.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="about_success_mb_en" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="We-are-an-All-in-One" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.358333" fill="#FFFFFF">
+            <tspan x="126" y="68">We are an All in One service and trusted partner for </tspan>
+            <tspan x="126" y="96">business and government development in the </tspan>
+            <tspan x="126" y="124">current and future.</tspan>
+        </text>
+        <text id="We-support-enterpris" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.358333" fill="#FFFFFF">
+            <tspan x="126" y="221">We support enterprise organizations to be truly </tspan>
+            <tspan x="126" y="249">“process-oriented”, managing and continually </tspan>
+            <tspan x="126" y="277">improving processes in their value chain ecosystem</tspan>
+        </text>
+        <text id="We-fully-integrate-I" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.358333" fill="#FFFFFF">
+            <tspan x="126" y="495">We fully integrate ICT into business decision-</tspan>
+            <tspan x="126" y="523">making and operations, transforming ICT into an </tspan>
+            <tspan x="126" y="551">engine that enables higher efficiency organizations</tspan>
+        </text>
+        <text id="We-actively-integrat" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.358333" fill="#FFFFFF">
+            <tspan x="126" y="378">We actively integrate sustainability and innovation </tspan>
+            <tspan x="126" y="406">into the DNA of the organization.</tspan>
+        </text>
+        <g id="b" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+            <use xlink:href="#text-1"></use>
+        </g>
+        <g id="d" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+            <use xlink:href="#text-3"></use>
+        </g>
+        <g id="c" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-6)" xlink:href="#text-5"></use>
+            <use xlink:href="#text-5"></use>
+        </g>
+        <text id="a" font-family="BebasNeue-Regular, Bebas Neue" font-size="87" font-weight="normal" letter-spacing="5.908749" fill="#FFFFFF">
+            <tspan x="49.1021255" y="121">a</tspan>
+        </text>
+    </g>
+</svg>

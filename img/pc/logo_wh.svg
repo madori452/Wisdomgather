@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="84px" viewBox="0 0 107 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>logo_wh</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="57.7020122 27 32.2638481 52.7935897 24.4469817 52.7935897 49.8851458 27 39.587158 27 9 58 18.8711282 58 19.2979878 58 27.1281935 58 34.2380737 58 37.412842 58 68 27"></polygon>
+        <filter x="-19.5%" y="-30.6%" width="139.0%" height="174.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.32201087 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="logo_wh" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Shape" fill="#C9CACA" fill-rule="nonzero" points="54.1014957 30.8153846 75.7227564 52.7935897 83.5486111 52.7935897 58.0811966 27 68.3910256 27 99 58 89.1308761 58 88.7035256 58 80.8643162 58 73.7462607 58 70.5544872 58 49 35.9820513"></polygon>
+        <g id="Shape" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" xlink:href="#path-1"></use>
+        </g>
+        <polygon id="Shape" fill="#C9CACA" fill-rule="nonzero" points="54 58 45 58 49.5 53.5 54 49 58.5 53.5 63 58"></polygon>
+    </g>
+</svg>

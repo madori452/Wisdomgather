@@ -1,0 +1,376 @@
+*{
+  /*border: 1px solid #cdcdcd; */
+
+}
+
+@font-face {
+    font-family: 'bebas_neueregular';
+    src: url('../font/bebasneue-regular.woff2') format('woff2'),
+         url('../font/bebasneue-regular.woff') format('woff');
+    font-style: normal;
+
+}
+body, html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+  font-family: 'bebas_neueregular' , sans-serif;
+}
+
+
+
+.wrap{
+  max-width: 100%;
+  margin: 0 auto;
+  min-width: 320px;
+  overflow: hidden;
+  overflow-x:hidden;
+}
+.pr{
+  position: relative;
+}
+
+
+/*index01------------------------------------------------------------*/
+.index01{
+  padding:350px 0px;
+  margin-top: -80px;
+  background-image: url('../img/pc/about_slide.png');
+  background-size: cover;
+  z-index: -2;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+.index01 .container{
+    background-image: url(../img/pc/text_bg01.png);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.index01 h1{
+  font-size: 74px;
+  letter-spacing: 5px;
+  color: #ffffff;
+  margin-left: 28px;
+  text-shadow: 0 2px 4px rgba(56, 56, 56, 0.96);
+}
+.index01 h2{
+  color: #ffffff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  margin-left: 36px;
+  font-weight: normal;
+}
+
+.index01 p{
+  font-size: 20px;
+  font-family: '微軟正黑體';
+  font-weight: 300;
+  letter-spacing: 1.4px;
+  color: #ffffff;
+  margin-left: 36px;
+  font-weight: normal;
+  margin-top: 20px;
+  width: 70%;
+}
+
+
+/*index02------------------------------------------------------------*/
+.index02{
+  padding: 100px 0px;
+  background-image: url('../img/pc/about_bg.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+.index02 h1{
+  color: #fff;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.index02 h2{
+  color: #fff;
+  font-size: 24px;
+  text-align: center;
+}
+.index02 p{
+  color: #fff;
+  font-family: '微軟正黑體';
+  text-align: left;
+  font-size: 16px;
+  line-height: 32px;
+  width: 80%;
+  margin: 0  auto 100px auto;
+}
+img.success_mb{
+  display: none;
+}
+/*index03------------------------------------------------------------*/
+.index03{
+  padding: 100px 0px;
+  background-image: url('../img/pc/index_bg05.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  font-family: "微軟正黑體";
+}
+
+.index03 h2{
+  font-size: 40px;
+  color: #272727;
+  letter-spacing: 2px;
+  font-weight: normal;
+  text-align: center;
+  font-family: 'bebas_neueregular' , sans-serif; 
+}
+
+.index03 h3{
+  font-size: 28px;
+  margin-top: 30px;
+}
+.index03 h4{
+  font-size: 20px;
+  font-weight: 600;
+  color: #bbbbbb;
+}
+.index03 p{
+  font-size: 16px;
+  color: #676767;
+  line-height: 24px;
+  margin-top: 20px;
+}
+
+.card_partner{
+  background-color: #fff;
+  box-shadow: 2px 2px 20px rgba(0,0,0,0.3);
+  margin-top: 100px;
+  overflow: hidden;
+
+}
+
+
+.card_partner02 .col-sm-6, .card_partner .col-lg-3, .card_partner.col-lg-12{
+    padding-left: 0px ;
+  padding-right: 0px;
+}
+
+img.partner09{
+  position: relative;
+  width:300px;
+  float: right;
+  margin-right: -30px;
+}
+
+.see_more{
+  width: 110px;
+  height: 40px;
+  background-color: #285b98;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+  font-family: 'bebas_neueregular' , sans-serif;
+  text-align: center;
+  border-radius: 4px;
+  letter-spacing: 2px;
+  transition: 0.3s;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 30px;
+}
+.see_more a{
+  cursor: pointer;
+  width: 110px;
+  color: #fff;
+  text-decoration: none;
+}
+
+
+.intro_hide{
+  display: none;
+}
+
+.active{
+  display: block;
+}
+/*index04------------------------------------------------------------*/
+
+
+.index04{
+  padding: 100px 0px;
+  background-image: url('../img/pc/about_bg.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  font-family: "微軟正黑體";
+}
+.index04 h3 , .index04 h4{
+  padding: 0px 20px;
+}
+
+.index04 p, .index04 .content{
+  font-size: 16px;
+  color: #676767;
+  line-height: 32px;
+  margin-top: 10px;
+   padding: 20px; 
+}
+.index04 p{
+  padding-left: 0px;
+}
+.index04 h2 {
+    font-size: 40px;
+    color: #fff;
+    font-weight: normal;
+    text-align: center;
+    font-family: 'bebas_neueregular' , sans-serif;
+}
+
+/*index05------------------------------------------------------------*/
+
+
+.index05{
+  padding: 100px 0px;
+  background-color: #f5f2f2;
+}
+
+.index05 h2, 
+.index05 h3{
+  text-align: center;
+}
+.index05 h2{
+  margin-bottom: 40px;
+}
+.index05 p{
+  line-height: 28px;
+  padding: 0px 50px;
+  font-family: '微軟正黑體';
+}
+
+
+
+@media screen and (max-width: 1440px) {
+  .index01{
+    padding: 200px 0px;
+  }
+  .index02{
+    padding: 100px 0px;
+  }
+  
+}
+
+
+
+@media screen and (max-width: 1024px) {
+  .index01 h1{
+    font-size: 60px;
+  }
+  .index01 p{
+    width: 70%;
+  }
+  .index04 p{
+    padding: 0px 10px;
+    font-size: 16px;
+    line-height: 30px;
+  }
+
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+  img.success_mb{
+  display: block;
+  }
+  img.success_pc{
+  display: none;
+  }
+  .index02 {
+    padding: 50px 0px;
+  }
+  .index01 p {
+    width: 90%;
+    display: none;
+  }
+  .index01 .container{
+    -webkit-background-size: 80%;
+    background-size: 80%;
+    width: 80%;
+  }
+  
+}
+
+@media screen and (max-width: 767px){
+  .index03 .container, .index04 .container{
+    width: 50%;
+  }
+  img.partner09{
+  width:100%;
+    margin-left: 0px;
+  }
+
+}
+
+@media screen and (max-width: 414px) {
+  .index01 h1{
+    font-size: 40px;
+    margin-top: 20px;
+  }
+  .index01 p{
+    display: none;
+  }
+  .index01{
+    padding: 150px 0px; 
+    margin-top: 0px;
+    background-image: url('../img/mb/414_about.png');
+  }
+  .index01 h2 {
+    font-size: 28px;
+    margin-top: -5px;
+    margin-left: 30px;
+  }
+  img.partner{
+    width: 100%;
+  }
+  .index03 .container, .index04 .container{
+    width: 90%;
+  }
+  .card_partner{
+    margin-top: 50px;
+  }
+  .index02 h1, .index03 h2, .index04 h2{
+    font-size: 28px;
+  }
+  .index03 h3{
+    font-size: 22px;
+  }
+  .index03 p, .index04 p{
+    margin-top: 0px;
+    font-size: 13px;
+    line-height: 26px;
+    padding-bottom: 20px;
+  }
+  .index03 h4 {
+    font-size: 14px;
+  }
+  .index02 h2{
+    font-size: 16px;
+  }
+  .index04 h3, .index04 h4 {
+    padding: 0px 10px;
+  }
+
+
+}
+
+
+
+
+
+
+
+
+

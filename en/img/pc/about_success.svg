@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1098px" height="603px" viewBox="0 0 1098 603" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>about_success</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-49.1801298%" y1="85.4402718%" x2="86.9918257%" y2="7.91840482%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" stop-opacity="0.272927989" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-49.1801298%" y1="85.4402718%" x2="86.9918257%" y2="7.91840482%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="about_success" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-19" transform="translate(17.000000, 73.000000)">
+            <text id="我們是企業和政府部門在當前和未來發展中的" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.358333" fill="#FFFFFF">
+                <tspan x="0" y="75">我們是企業和政府部門在當前和</tspan>
+                <tspan x="0" y="103">未來發展中的一次性服務和值得</tspan>
+                <tspan x="0" y="131">信賴的合作夥伴。</tspan>
+            </text>
+            <text id="我們支持企業組織真正“以流程為導向”，管" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.358333" fill="#FFFFFF">
+                <tspan x="756" y="75">我們支持企業組織真正“以流程</tspan>
+                <tspan x="756" y="103">為導向”，管理並不斷改進其價</tspan>
+                <tspan x="756" y="131">值鏈生態系統中的流程。</tspan>
+            </text>
+            <text id="我們將ICT完全融入業務決策和營運中，將" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.358333" fill="#FFFFFF">
+                <tspan x="0" y="283">我們將ICT完全融入業務決策和</tspan>
+                <tspan x="0" y="311">營運中，將ICT轉變為一個能夠</tspan>
+                <tspan x="0" y="339">實現更高效率組織的引擎。</tspan>
+            </text>
+            <text id="我們積極地將可持續性和創新融入組織的DN" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" letter-spacing="1.358333" fill="#FFFFFF">
+                <tspan x="756" y="283">我們積極地將可持續性和創新融</tspan>
+                <tspan x="756" y="311">入組織的DNA中。</tspan>
+            </text>
+            <path d="M515,15 C413.931891,15 332,96.9318908 332,198" id="Oval-4" stroke="url(#linearGradient-1)" stroke-width="15"></path>
+            <path d="M728,15 C626.931891,15 545,96.9318908 545,198" id="Oval-4" stroke="url(#linearGradient-2)" stroke-width="15" transform="translate(636.500000, 106.500000) scale(-1, 1) translate(-636.500000, -106.500000) "></path>
+            <path d="M515,234 C413.931891,234 332,315.931891 332,417" id="Oval-4" stroke="url(#linearGradient-1)" stroke-width="15" transform="translate(423.500000, 325.500000) scale(1, -1) translate(-423.500000, -325.500000) "></path>
+            <path d="M728,234 C626.931891,234 545,315.931891 545,417" id="Oval-4" stroke="url(#linearGradient-1)" stroke-width="15" transform="translate(636.500000, 325.500000) scale(-1, -1) translate(-636.500000, -325.500000) "></path>
+            <text id="a" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" letter-spacing="5.433331" fill="#FFFFFF">
+                <tspan x="433.243335" y="157">a</tspan>
+            </text>
+            <text id="b" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" letter-spacing="5.433331" fill="#FFFFFF">
+                <tspan x="585.123335" y="157">b</tspan>
+            </text>
+            <text id="d" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" letter-spacing="5.433331" fill="#FFFFFF">
+                <tspan x="438.043335" y="322">d</tspan>
+            </text>
+            <text id="c" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" letter-spacing="5.433331" fill="#FFFFFF">
+                <tspan x="585.463334" y="322">c</tspan>
+            </text>
+            <path d="M297.5,214.25 L763.5,214.25" id="Line" stroke="#FFFFFF" stroke-width="4" opacity="0.183091518" stroke-linecap="square"></path>
+            <path d="M530.25,0.25 L530.25,456" id="Line" stroke="#FFFFFF" stroke-width="4" opacity="0.183091518" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

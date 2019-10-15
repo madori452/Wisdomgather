@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1098px" height="603px" viewBox="0 0 1098 603" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>about_success_en</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-49.1801298%" y1="85.4402718%" x2="86.9918257%" y2="7.91840482%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" stop-opacity="0.272927989" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-49.1801298%" y1="85.4402718%" x2="86.9918257%" y2="7.91840482%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="about_success_en" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-19" transform="translate(25.000000, 74.000000)">
+            <text id="In-the-current-and-f" font-family="PingFangTC-Medium, PingFang TC" font-size="18" font-weight="400" letter-spacing="1.2225" fill="#FFFFFF">
+                <tspan x="0" y="50">In the current and future  </tspan>
+                <tspan x="0" y="75">development, we are a one-off </tspan>
+                <tspan x="0" y="100">service  and trusted partner for </tspan>
+                <tspan x="0" y="125">business and  government </tspan>
+                <tspan x="0" y="150">departments.</tspan>
+            </text>
+            <text id="We-support-enterpris" font-family="PingFangTC-Medium, PingFang TC" font-size="18" font-weight="400" letter-spacing="1.2225" fill="#FFFFFF">
+                <tspan x="748" y="50">We support enterprise </tspan>
+                <tspan x="748" y="75">organizations  to “process-</tspan>
+                <tspan x="748" y="100">oriented” to manage and  </tspan>
+                <tspan x="748" y="125">continually improve processes </tspan>
+                <tspan x="748" y="150">in their  value chain </tspan>
+                <tspan x="748" y="175">ecosystem.</tspan>
+            </text>
+            <text id="We-fully-integrate-A" font-family="PingFangTC-Medium, PingFang TC" font-size="18" font-weight="400" letter-spacing="1.2225" fill="#FFFFFF">
+                <tspan x="0" y="282">We fully integrate AIoT into </tspan>
+                <tspan x="0" y="307">business  decision-making and </tspan>
+                <tspan x="0" y="332">operations,  transforming ICT </tspan>
+                <tspan x="0" y="357">into an engine that  enables </tspan>
+                <tspan x="0" y="382">more efficient organizations.</tspan>
+            </text>
+            <text id="We-actively-integrat" font-family="PingFangTC-Medium, PingFang TC" font-size="18" font-weight="400" letter-spacing="1.2225" fill="#FFFFFF">
+                <tspan x="748" y="282">We actively integrate </tspan>
+                <tspan x="748" y="307">sustainability and  innovation </tspan>
+                <tspan x="748" y="332">into the DNA of corporate  </tspan>
+                <tspan x="748" y="357">organizations.</tspan>
+            </text>
+            <path d="M507,15 C405.931891,15 324,96.9318908 324,198" id="Oval-4" stroke="url(#linearGradient-1)" stroke-width="15"></path>
+            <path d="M720,15 C618.931891,15 537,96.9318908 537,198" id="Oval-4" stroke="url(#linearGradient-2)" stroke-width="15" transform="translate(628.500000, 106.500000) scale(-1, 1) translate(-628.500000, -106.500000) "></path>
+            <path d="M507,234 C405.931891,234 324,315.931891 324,417" id="Oval-4" stroke="url(#linearGradient-1)" stroke-width="15" transform="translate(415.500000, 325.500000) scale(1, -1) translate(-415.500000, -325.500000) "></path>
+            <path d="M720,234 C618.931891,234 537,315.931891 537,417" id="Oval-4" stroke="url(#linearGradient-1)" stroke-width="15" transform="translate(628.500000, 325.500000) scale(-1, -1) translate(-628.500000, -325.500000) "></path>
+            <text id="a" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" letter-spacing="5.433331" fill="#FFFFFF">
+                <tspan x="425.243335" y="157">a</tspan>
+            </text>
+            <text id="b" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" letter-spacing="5.433331" fill="#FFFFFF">
+                <tspan x="577.123335" y="157">b</tspan>
+            </text>
+            <text id="d" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" letter-spacing="5.433331" fill="#FFFFFF">
+                <tspan x="430.043335" y="322">d</tspan>
+            </text>
+            <text id="c" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" letter-spacing="5.433331" fill="#FFFFFF">
+                <tspan x="577.463334" y="322">c</tspan>
+            </text>
+            <path d="M289.5,214.25 L755.5,214.25" id="Line" stroke="#FFFFFF" stroke-width="4" opacity="0.183091518" stroke-linecap="square"></path>
+            <path d="M522.25,0.25 L522.25,456" id="Line" stroke="#FFFFFF" stroke-width="4" opacity="0.183091518" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
